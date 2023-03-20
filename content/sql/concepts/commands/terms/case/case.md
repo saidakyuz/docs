@@ -20,7 +20,7 @@ The **`CASE`** command is a logical test that returns different output based on 
 
 ## Syntax
 
-```pseudo
+```sql
 CASE
   WHEN this_condition THEN this_result
   WHEN that_condition THEN that_result
